@@ -12,7 +12,7 @@ CLIENT(http post request) : http://localhost:8080/info
 </code></pre>
 
 If you choice second way in client, you can't experiment in browser directly 
-because typing in url input box is just to request GET method 
+because typing in url input box is just to request GET method without selecting the function which you want to execute
 So you need a popular tool such as https://apitester.com/ and do set header to application/json and empty parameter
 
 
